@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="css/dashboard.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="#about.html">About Us</a></li>
+            <li><a href="#data-privacy.html">Data Privacy</a></li>
+            <li><a href="#user-agreement.html">User Agreement</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+        </ul>
+    </nav>
+
+    <!-- Sidebar Menu -->
+    <div class="sidebar">
+        <h2>Dashboard</h2>
+        <ul>
+            <li><a href="#">Charts</a></li>
+            <li><a href="#">Tables</a></li>
+            <li><a href="#">Forms</a></li>
+            <li><a href="#">Calendar</a></li>
+            <li><a href="#">Map</a></li>
+            <li><a href="#" style="color: red;">Logout</a></li>
+            <li><a href="#">Menu item</a></li>
+            <li><a href="#">Menu item</a></li>
+            <li><a href="#">Menu item</a></li>
+            <li><a href="#">Menu item</a></li>
+            
+        </ul>
+    </div>
+
+    <!-- Dashboard Content -->
+    <section class="content">
+        
+        <p>Welcome to the dashboard!</p>
+
+        <!-- Example Cards -->
+        <div class="dashboard-card">
+            <h3>Total Users</h3>
+            <p id="totalUsers">Loading...</p>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>Active Sessions</h3>
+            <p id="activeSessions">Loading...</p>
+        </div>
+        <div class="dashboard-card">
+            <h3>Density Plot Chart</h3>
+            <canvas id="densityChart" width="500" height="200"></canvas>
+        </div>
+    </section>
+
+    <!-- JavaScript for Dynamic Content -->
+    <script>
+        // Fetching Dashboard Data
+        async function fetchDashboardData() {
+            try {
+                const response = await fetch('/api/dashboard/overview');
+                if (response.ok) {
+                    const data = await response.json();
+                    document.getElementById('totalUsers').textContent = data.totalUsers;
+                    document.getElementById('activeSessions').textContent = data.activeSessions;
+                } else {
+                    console.error('Failed to fetch dashboard data');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        // Load Data when Page is Loaded
+        window.addEventListener('load', fetchDashboardData);
+
+        // Density Plot Chart using Chart.js
+        const ctx = document.getElementById('densityChart').getContext('2d');
+        const densityChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                datasets: [{
+                    label: 'Density',
+                    data: [15, 20, 18, 25, 22, 30, 28, 35, 32, 40, 38, 45],
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderWidth: 2,
+                    tension: 0.4,
+                    fill: true
+                }]
+            },
+            options: {
+                scales: {
+                    x: {
+                        beginAtZero: true
+                    },
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

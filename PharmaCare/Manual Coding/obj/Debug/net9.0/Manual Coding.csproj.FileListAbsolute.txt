@@ -1,0 +1,359 @@
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-epb4sut14x.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-76p17g643e.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-3445rbikzy.gz
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Manual Coding - MySQL - Save\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-e7ccz0t389.gz
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-l1bl6muuy5.gz
+C:\Users\jonat\source\repos\Manual Coding\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-dhlt9tz32g.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-dhlt9tz32g.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-90vnr2kpbd.gz
+C:\Users\jonat\source\repos\Manual Coding2\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-gojtwl77sd.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-dhlt9tz32g.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-jvc96ks7ly.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\jfinn9ot1u-zvwpdhrr3z.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\u6ght46qwq-f8t9fcpme9.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-izv0sks115.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\jfinn9ot1u-zvwpdhrr3z.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\u6ght46qwq-f8t9fcpme9.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-izv0sks115.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-jvc96ks7ly.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-dhlt9tz32g.gz
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Manual Coding2 - Dashboard - Copy (3)\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\appsettings.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.runtime.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.staticwebassets.endpoints.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.exe
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.deps.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.runtimeconfig.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Manual Coding.pdb
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.AssemblyReference.cache
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfoInputs.cache
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.AssemblyInfo.cs
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.csproj.CoreCompileInputs.cache
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\scopedcss\bundle\Manual Coding.styles.css
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\0a3qk6nbmz-hdb94gzea0.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\l9e2638tmb-bin2pzp791.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\jfinn9ot1u-zvwpdhrr3z.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\u6ght46qwq-f8t9fcpme9.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\w328kixgus-ew2qynymbk.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\gq11p397c8-jvc96ks7ly.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\ki7oebsu6d-dhlt9tz32g.gz
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.Manual Coding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.build.Manual Coding.props
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Manual Coding.props
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Manual Coding.props
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual C.3A84D714.Up2Date
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\refint\Manual Coding.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.pdb
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\Manual Coding.genruntimeconfig.cache
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\ref\Manual Coding.dll
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\obj\Debug\net9.0\compressed\fssh9zd1e9-z6wpmhtl4m.gz

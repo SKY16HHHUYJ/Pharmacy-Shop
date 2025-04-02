@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Manual Coding.props" />
+</Project>

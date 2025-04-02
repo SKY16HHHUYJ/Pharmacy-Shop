@@ -1,0 +1,16 @@
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\about.html
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\index.html
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\script.js
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\CSS\dashboard.css
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\style.css
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\agreement.html
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\dashboard.html
+C:\Users\johna\OneDrive\Pictures\Manual Coding2 - Dashboard\Manual Coding\wwwroot\privacy.html
+wwwroot\about.html
+wwwroot\agreement.html
+wwwroot\CSS\dashboard.css
+wwwroot\dashboard.html
+wwwroot\index.html
+wwwroot\privacy.html
+wwwroot\script.js
+wwwroot\style.css
