@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sales Analytics</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <style>
+    :root {
+      --primary-color: #4CAF50;
+      --secondary-color: #388E3C;
+      --light-color: #F1F8E9;
+      --dark-color: #212121;
+      --accent-color: #FF9800;
+      --danger-color: #D32F2F;
+      --summary-bg: #ffffff;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #F5F5F5;
+    }
+
+    .sales-container {
+      width: 80%;
+      margin: 30px auto 10px auto;
+      padding: 30px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .summary-container {
+      width: 80%;
+      margin: 0 auto 40px auto;
+      padding: 20px;
+      background-color: var(--summary-bg);
+      border-radius: 8px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      color: var(--primary-color);
+    }
+
+    .sales-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+
+    .sales-table th, .sales-table td {
+      padding: 12px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+
+    .sales-table th {
+      background-color: var(--primary-color);
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .sales-table td {
+      font-size: 1rem;
+    }
+
+    .sales-table tr:nth-child(even) {
+      background-color: #F9F9F9;
+    }
+
+    .sales-table tr:hover {
+      background-color: #F1F1F1;
+    }
+
+    .add-sale-btn, .back-btn {
+      background-color: var(--accent-color);
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+
+    .add-sale-btn:hover, .back-btn:hover {
+      background-color: #FF5722;
+    }
+
+    .summary-title {
+      color: var(--dark-color);
+      font-size: 1.5rem;
+      margin-bottom: 12px;
+      border-left: 5px solid var(--primary-color);
+      padding-left: 10px;
+    }
+
+    .summary-stats p {
+      font-size: 1.1rem;
+      margin: 8px 0;
+      padding-left: 5px;
+    }
+
+    .summary-stats span {
+      font-weight: bold;
+      color: var(--secondary-color);
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      overflow: auto;
+    }
+
+    .modal-content {
+      background-color: white;
+      margin: 10% auto;
+      padding: 20px;
+      border-radius: 8px;
+      width: 60%;
+    }
+
+    .modal input,
+    .modal select {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+
+    .modal button {
+      background-color: var(--primary-color);
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    .modal button:hover {
+      background-color: var(--secondary-color);
+    }
+
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <section class="sales-container">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <button class="back-btn" onclick="goBack()">
+        <i class="fas fa-arrow-left"></i> Back
+      </button>
+
+      <h1 style="flex-grow: 1; text-align: center; margin: 0; font-size: 2rem;">
+        <i class="fas fa-chart-bar"></i> Sales Analytics
+      </h1>
+
+      <button class="add-sale-btn" onclick="openSaleModal()">
+        <i class="fas fa-plus-circle"></i> Add Sale
+      </button>
+    </div>
+
+    <table class="sales-table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Sale Amount</th>
+          <th>Product Name</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody id="sales-list">
+        <!-- Sales data will be displayed here -->
+      </tbody>
+    </table>
+  </section>
+
+  <section class="summary-container">
+    <div class="analytics-section">
+      <h3 class="summary-title"><i class="fas fa-chart-pie"></i> Sales Summary</h3>
+      <div class="summary-stats">
+        <p><i class="fas fa-coins"></i> Total Sales: <span>₱<span id="total-sales">0.00</span></span></p>
+        <p><i class="fas fa-receipt"></i> Total Transactions: <span id="total-transactions">0</span></p>
+        <p><i class="fas fa-calculator"></i> Average per Sale: <span>₱<span id="average-sale">0.00</span></span></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal -->
+  <div id="saleModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeSaleModal()">&times;</span>
+      <h2 id="modal-title"><i class="fas fa-pen-to-square"></i> Add New Sale</h2>
+      <form id="saleForm">
+        <input type="hidden" id="saleIndex">
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" name="productName" required>
+
+        <label for="saleAmount">Sale Amount (₱):</label>
+        <input type="number" id="saleAmount" name="saleAmount" required>
+
+        <label for="saleDate">Sale Date:</label>
+        <input type="date" id="saleDate" name="saleDate" required>
+
+        <button type="submit">Save Sale</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    let salesData = [];
+    let editingIndex = null;
+
+    function goBack() {
+      window.history.back();
+    }
+
+    function openSaleModal(index = null) {
+      editingIndex = index;
+
+      if (editingIndex !== null) {
+        const sale = salesData[editingIndex];
+        document.getElementById("modal-title").textContent = "Edit Sale";
+        document.getElementById("productName").value = sale.productName;
+        document.getElementById("saleAmount").value = sale.saleAmount;
+        document.getElementById("saleDate").value = sale.saleDate;
+        document.getElementById("saleIndex").value = editingIndex;
+      } else {
+        document.getElementById("modal-title").innerHTML = '<i class="fas fa-pen-to-square"></i> Add New Sale';
+        document.getElementById("saleForm").reset();
+      }
+
+      document.getElementById("saleModal").style.display = "block";
+    }
+
+    function closeSaleModal() {
+      document.getElementById("saleModal").style.display = "none";
+    }
+
+    document.getElementById("saleForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const productName = document.getElementById("productName").value;
+      const saleAmount = parseFloat(document.getElementById("saleAmount").value);
+      const saleDate = document.getElementById("saleDate").value;
+
+      if (editingIndex !== null) {
+        salesData[editingIndex] = { productName, saleAmount, saleDate };
+      } else {
+        const sale = { productName, saleAmount, saleDate };
+        salesData.push(sale);
+      }
+
+      document.getElementById("saleForm").reset();
+      closeSaleModal();
+      updateSalesTable();
+      updateAnalytics();
+    });
+
+    function updateSalesTable() {
+      const salesList = document.getElementById("sales-list");
+      salesList.innerHTML = '';
+
+      salesData.forEach((sale, index) => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${sale.saleDate}</td>
+          <td>₱${sale.saleAmount.toFixed(2)}</td>
+          <td>${sale.productName}</td>
+          <td>
+            <button onclick="openSaleModal(${index})" style="margin-right: 5px; background-color: #2196F3; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">
+              <i class="fas fa-edit"></i> Edit
+            </button>
+            <button onclick="deleteSale(${index})" style="background-color: var(--danger-color); color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">
+              <i class="fas fa-trash-alt"></i> Delete
+            </button>
+          </td>
+        `;
+        salesList.appendChild(row);
+      });
+    }
+
+    function deleteSale(index) {
+      salesData.splice(index, 1);
+      updateSalesTable();
+      updateAnalytics();
+    }
+
+    function updateAnalytics() {
+      const totalSales = salesData.reduce((sum, sale) => sum + sale.saleAmount, 0);
+      const totalTransactions = salesData.length;
+      const averageSale = totalTransactions > 0 ? totalSales / totalTransactions : 0;
+
+      document.getElementById("total-sales").textContent = totalSales.toFixed(2);
+      document.getElementById("total-transactions").textContent = totalTransactions;
+      document.getElementById("average-sale").textContent = averageSale.toFixed(2);
+    }
+  </script>
+
+</body>
+</html>
