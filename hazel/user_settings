@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>User Settings | PharmacyShop</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <style>
+    :root {
+      --primary-color: #4CAF50;
+      --secondary-color: #2E7D32;
+      --light-bg: #F9F9F9;
+      --border-color: #ddd;
+      --text-color: #333;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: var(--light-bg);
+      margin: 0;
+      padding: 20px;
+    }
+
+    .settings-container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      color: var(--primary-color);
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .settings-section {
+      margin-bottom: 30px;
+    }
+
+    .settings-section h2 {
+      color: var(--secondary-color);
+      margin-bottom: 15px;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 5px;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      margin-bottom: 5px;
+      font-weight: bold;
+      color: var(--text-color);
+    }
+
+    input, select {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid var(--border-color);
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+
+    .save-btn {
+      background-color: var(--primary-color);
+      color: white;
+      border: none;
+      padding: 12px 25px;
+      border-radius: 5px;
+      font-size: 1rem;
+      cursor: pointer;
+      display: block;
+      margin: 20px auto 0;
+    }
+
+    .save-btn:hover {
+      background-color: var(--secondary-color);
+    }
+
+    .profile-pic {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto 10px;
+    }
+
+    .upload-btn {
+      display: block;
+      margin: 0 auto 10px;
+      background: var(--primary-color);
+      color: white;
+      padding: 8px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .remove-btn {
+      display: block;
+      margin: 0 auto;
+      background: red;
+      color: white;
+      padding: 8px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .remove-btn:hover {
+      background: darkred;
+    }
+  </style>
+</head>
+<body>
+
+<div class="settings-container">
+  <h1><i class="fas fa-user-cog"></i> User Settings</h1>
+
+  <!-- Profile Section -->
+  <div class="settings-section">
+    <h2><i class="fas fa-id-badge"></i> Profile Information</h2>
+
+    <img src="https://via.placeholder.com/100" alt="Profile Picture" class="profile-pic" id="profilePreview"/>
+    <input type="file" id="profilePicInput" class="upload-btn" accept="image/*">
+    <button class="remove-btn" id="removePhotoBtn" style="display: none;">Remove Photo</button>
+
+    <label>Full Name</label>
+    <input type="text" placeholder="Enter Full Name" />
+
+    <label>Username</label>
+    <input type="text" placeholder="Enter Username" />
+
+    <label>Email Address</label>
+    <input type="email" placeholder="Enter Email Address" />
+  </div>
+
+  <!-- Account Settings -->
+  <div class="settings-section">
+    <h2><i class="fas fa-lock"></i> Account Security</h2>
+
+    <label>Current Password</label>
+    <input type="password" placeholder="Enter Current Password" />
+
+    <label>New Password</label>
+    <input type="password" placeholder="Enter New Password" />
+
+    <label>Confirm New Password</label>
+    <input type="password" placeholder="Confirm New Password" />
+  </div>
+
+  <!-- Preferences -->
+  <div class="settings-section">
+    <h2><i class="fas fa-sliders-h"></i> Preferences</h2>
+
+    <label>Language</label>
+    <select>
+      <option>English</option>
+      <option>Filipino</option>
+      <option>Spanish</option>
+    </select>
+
+    <label>Timezone</label>
+    <select>
+      <option>GMT+8 (Philippines)</option>
+      <option>GMT+9 (Japan)</option>
+      <option>GMT+1 (Europe)</option>
+    </select>
+
+    <label>Notification Settings</label>
+    <select>
+      <option>Email & SMS</option>
+      <option>Email Only</option>
+      <option>SMS Only</option>
+      <option>None</option>
+    </select>
+  </div>
+
+  <!-- Save Button -->
+  <button class="save-btn"><i class="fas fa-save"></i> Save Changes</button>
+</div>
+
+<script>
+  const profilePicInput = document.getElementById('profilePicInput');
+  const profilePreview = document.getElementById('profilePreview');
+  const removePhotoBtn = document.getElementById('removePhotoBtn');
+
+  profilePicInput.addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    if (file) {
+      profilePreview.src = URL.createObjectURL(file);
+      removePhotoBtn.style.display = 'block'; // Show the remove button when a photo is uploaded
+    }
+  });
+
+  removePhotoBtn.addEventListener('click', function() {
+    profilePreview.src = 'https://via.placeholder.com/100'; // Reset to placeholder image
+    removePhotoBtn.style.display = 'none'; // Hide the remove button again
+    profilePicInput.value = ''; // Clear the file input
+  });
+</script>
+
+</body>
+</html>
