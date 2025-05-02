@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login - MediCare</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f4f7fc;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            width: 100%;
+            max-width: 400px;
+            padding: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+            .logo i {
+                font-size: 3rem;
+                color: #4a8bf5;
+                margin-bottom: 0.5rem;
+            }
+
+            .logo h1 {
+                color: #333;
+                font-size: 1.8rem;
+            }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 0.5rem;
+                color: #555;
+                font-weight: 500;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 0.8rem;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                font-size: 1rem;
+                transition: all 0.3s ease;
+            }
+
+                .form-group input:focus {
+                    border-color: #4a8bf5;
+                    outline: none;
+                    box-shadow: 0 0 0 3px rgba(74, 139, 245, 0.2);
+                }
+
+        .btn {
+            width: 100%;
+            padding: 0.8rem;
+            background-color: #4a8bf5;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+            .btn:hover {
+                background-color: #3a7bd5;
+                transform: translateY(-2px);
+            }
+
+        #settings-panel {
+            display: none;
+            margin-top: 2rem;
+        }
+
+            #settings-panel h2 {
+                color: #333;
+                font-size: 1.4rem;
+                margin-bottom: 1rem;
+            }
+
+            #settings-panel p {
+                margin-bottom: 0.5rem;
+                color: #444;
+            }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 1.5rem;
+            }
+
+            .logo h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <i class="fas fa-user-shield"></i>
+            <h1>Admin Login</h1>
+        </div>
+
+        <form id="admin-login-form">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" placeholder="Enter your username" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter your password" required>
+            </div>
+            <button type="submit" class="btn">Login</button>
+        </form>
+
+        <!-- Settings Panel (Hidden Initially) -->
+        <div id="settings-panel">
+            <h2>Settings</h2>
+            <p>🔒 Change Password</p>
+            <p>🎨 Theme Preferences</p>
+            <p>📧 Update Email</p>
+            <p>🔔 Notification Settings</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('admin-login-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            if (username === 'Admin' && password === '1234') {
+                alert('Login successful!');
+
+                // Hide the login form and show settings
+                document.getElementById('admin-login-form').style.display = 'none';
+                document.getElementById('settings-panel').style.display = 'block';
+            } else {
+                alert('Invalid username or password!');
+            }
+        });
+    </script>
+</body>
+</html>
